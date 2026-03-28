@@ -8,6 +8,10 @@ const inter = Inter({ subsets: ["latin"] });
 export const metadata: Metadata = {
   title: "BricketX Pakistan | Operational Backbone",
   description: "The technological infrastructure and backend support powering the global BricketX ecosystem.",
+
+  verification: {
+    google: "xZ8u-Ac33ASn11Qd4OL_eCzHAKWvupm-PMyWiYzbONc",
+  },
 };
 
 export default function RootLayout({
